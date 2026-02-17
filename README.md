@@ -4,7 +4,6 @@
 This project demonstrates deployment of a production-ready Linux web server using AWS EC2 and NGINX. A custom HTML webpage was successfully deployed and made accessible over the public internet.
 
 ## Live Server
-Public IP: http://13.60.184.17
 
 ![Live Server Screenshot](aws-ec2-nginx-live.png)
 
