@@ -1,25 +1,36 @@
 # AWS EC2 NGINX Deployment Project
 
-This project demostrates deployment of a Linux web server using AWS EC2 and NGINX.
+## Overview
+This project demonstrates deployment of a production-ready Linux web server using AWS EC2 and NGINX. A custom HTML webpage was successfully deployed and made accessible over the public internet.
 
-## Steps performed
+## Live Server
+Public IP: http://13.60.184.17
 
-- Launched Ubuntu server 24.04 LTS on AWS EC2
+![Live Server Screenshot](aws-ec2-nginx-live.png)
+
+## Technologies Used
+- AWS EC2
+- Ubuntu Server 24.04 LTS
+- NGINX
+- Linux CLI
+- SSH
+- Git and GitHub
+- HTML
+
+## Key Steps Performed
+- Launched Ubuntu EC2 instance on AWS
 - Connected securely using SSH key authentication
 - Installed and configured NGINX web server
 - Deployed custom HTML webpage
-- Configured server to run persistently
+- Verified live server access via public IP
 
-## Skills demostrated
-
-- AWS EC2 
+## Skills Demonstrated
+- AWS cloud server deployment
 - Linux server administration
-- SSH access and key management 
 - NGINX installation and configuration
-- Web server deployment
+- SSH access and key management
+- Production web server setup
 
-## Outcome
-
-Live production server successfully deployed on AWS.
-
-Author: Yoseph
+## Author
+Yoseph  
+GitHub: https://github.com/BARBATDOS
